@@ -1,0 +1,5 @@
+C:\New Git 236\Day 6 Logical Programs\Day 6 Logical Programs\Day 6 Logical Programs\obj\Debug\net6.0\Day 6 Logical Programs.csproj.AssemblyReference.cache
+C:\New Git 236\Day 6 Logical Programs\Day 6 Logical Programs\Day 6 Logical Programs\obj\Debug\net6.0\Day 6 Logical Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\New Git 236\Day 6 Logical Programs\Day 6 Logical Programs\Day 6 Logical Programs\obj\Debug\net6.0\Day 6 Logical Programs.AssemblyInfoInputs.cache
+C:\New Git 236\Day 6 Logical Programs\Day 6 Logical Programs\Day 6 Logical Programs\obj\Debug\net6.0\Day 6 Logical Programs.AssemblyInfo.cs
+C:\New Git 236\Day 6 Logical Programs\Day 6 Logical Programs\Day 6 Logical Programs\obj\Debug\net6.0\Day 6 Logical Programs.csproj.CoreCompileInputs.cache
