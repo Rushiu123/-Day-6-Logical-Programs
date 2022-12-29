@@ -6,28 +6,25 @@ using System.Threading.Tasks;
 
 namespace Day_6_Logical_Programs
 {
-    internal class UC1Fibonacci
+    class UC1Fibonacci
     {
-        public static void fibonacci()
+        static void Main(string[]args)
         {
-            Console.WriteLine("Enter the Number :");
-            int n = Convert.ToInt32(Console.ReadLine());
+            int a = 0;
+            int b = 1;
+            int c;
 
-            int[] arr = new int[n];
+            Console.WriteLine(a);
+            Console.WriteLine(b);
 
-            arr[0] = 0;
-            arr[1] = 1;
-
-            for (int i = 2; i < n; i++)
-            {
-                arr[i] = arr[i - 1] + arr[i - 2];
+            for (int i = 0; i < 10; i++)
+            {        
+                c = a + b;
+               Console.WriteLine(c);
+                a = b;
+                b = c ;   
             }
-
-            for (int i = 0; i < n; i++)
-            {
-                Console.Write(arr[i] + " ");
-            }
-
+             Console.ReadLine();
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Day_6_Logical_Programs
 {
-    internal class UC2PerfectNumber
+    class UC2PerfectNumber
     {
         public static void perfectNumber()
         {
